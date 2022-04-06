@@ -94,6 +94,7 @@ models:
           combination_of_columns: 
             - log_id
             - created_at
+            - event_subtype
     columns: 
       - name: log_id
         description: >
